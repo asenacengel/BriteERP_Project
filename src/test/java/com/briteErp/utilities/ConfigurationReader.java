@@ -1,4 +1,4 @@
-package utilities;
+package com.briteErp.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;
